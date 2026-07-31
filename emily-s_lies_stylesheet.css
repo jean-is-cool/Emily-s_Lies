@@ -85,3 +85,7 @@ a.dropdown-button {
 video {
     max-width: 100%;
 }
+
+body {
+    padding: 0;
+}
