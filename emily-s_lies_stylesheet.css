@@ -102,10 +102,11 @@ div.footer {
     padding-left: 20px;
     max-width: 100%;
     background-color: #ffabab;
-    height: 20px;
+    height: auto;
 }
 
 p.footer-text {
+    padding-top: 0;
     margin: 0;
 }
     
