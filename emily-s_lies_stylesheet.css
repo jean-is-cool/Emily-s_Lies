@@ -1,3 +1,13 @@
+::selection {
+     background-color: yellow; 
+    color: black;            
+}
+
+::-moz-selection {
+    background-color: yellow;
+    color: black;
+}
+
 span.hidden {
     display: none;
 }
