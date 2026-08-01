@@ -1,10 +1,10 @@
 ::selection {
-     background-color: yellow; 
-    color: black;            
+     background-color: #dea9f5; 
+     color: black;            
 }
 
 ::-moz-selection {
-    background-color: yellow;
+    background-color: #dea9f5;
     color: black;
 }
 
@@ -12,7 +12,7 @@ span.hidden {
     display: none;
 }
 h1 {
-    text-align: left;
+    text-align: center;
     color: #ad0a20;
 }
 
